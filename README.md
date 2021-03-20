@@ -8,10 +8,10 @@ We have created a home page which links to other webpages made by us on self-def
 
 Team name: XENICAL
 Members:
-Ishaan Chhipa
-Binayak Bishnu
-Yashashvi Kala
-Kaushal Agrawal
-Vinay Maske
-Charvi Garg
+Ishaan Chhipa,
+Binayak Bishnu,
+Yashashvi Kala,
+Kaushal Agrawal,
+Vinay Maske,
+Charvi Garg,
 
